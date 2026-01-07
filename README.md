@@ -11,6 +11,10 @@ pip install uv
 uv install
 ```
 
+### Setup .env
+- rename .env.example into .env
+- fill the necessary variables
+
 ### Run MCP server
 ```bash
 uv run python -m app.main
